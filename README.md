@@ -1,5 +1,5 @@
 # Brandon Chan Projects Portfolio
-## Spotify Song Reccomender
+## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 ![](https://github.com/BrandonJChan/301FinalProject/blob/master/Visualizations/spotify%20logo.png)
 Softwares used: Python, Jupyter Notebooks
 - Developed a Spotify song reccomendation model using my personal Spotify listening history and integrating it with Spotify's audio features API
