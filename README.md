@@ -5,6 +5,7 @@ Softwares used: Python, Jupyter Notebooks
 - The data used was every single song I listening to in a four-month period, the number of times I played each song, and each song's audio features (danceability, energy, loudness, etc.)
   - Predicted the number of plays for each song 
 - In search of the highest performing model, optimized K-Nearest Neighbors, Ridge, and Random Forest Regressors for minimizing Mean Squared Error
+- Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
 
 ## Fake News Detection
 
