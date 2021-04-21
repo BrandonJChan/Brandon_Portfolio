@@ -1,2 +1,2 @@
-# Brandon Chan Data Science Portfolio
+# Brandon Chan Project Portfolio
 ## Spotify Song Reccomendations
