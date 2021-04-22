@@ -26,8 +26,8 @@ Softwares used: R
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
 
 <p float="left">
-  <img src="images/word%20cloud%20crop.png" width="482" align="left"/>
-  <img src="images/word%20cloud%20fake%20crop.png" width="490" align="right"/>
+  <img src="images/word%20cloud%20crop.png" width="482"/>
+  <img src="images/word%20cloud%20fake%20crop.png" width="490"/>
 </p>
 
 
