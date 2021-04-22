@@ -18,6 +18,7 @@ Softwares used: Python, Jupyter Notebooks
   <img width="600" src="word%20cloud%20crop.png">
 </p>
 Softwares used: R
+
 - Developed a classification model that categorizes news headlines as fake or real
 - The data used was 44,689 news headlines from 2015 to 2018
 - Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
