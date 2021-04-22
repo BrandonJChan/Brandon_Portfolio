@@ -12,10 +12,10 @@ Softwares used: Python, Jupyter Notebooks
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
-  <img width="600" src="news%20outlets.png">
+  <img width="600" src="news%20outlets%20crop.jpg">
 </p>
 <p align="center">
-  <img width="600" src="word%20cloud.png">
+  <img width="600" src="word%20cloud%20crop.png">
 </p>
 Softwares used: R
 - Developed a classification model that categorizes news headlines as fake or real
