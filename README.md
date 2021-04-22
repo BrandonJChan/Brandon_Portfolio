@@ -22,7 +22,7 @@ Softwares used: R
 - Developed a classification model that categorizes news headlines as fake or real
 - The data used was 44,689 news headlines from 2015 to 2018
 - Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
-- Evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Neural Networks and Random Forest.
+- Evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
 
 <p align="center">
