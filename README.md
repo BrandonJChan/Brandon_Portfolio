@@ -11,8 +11,12 @@ Softwares used: Python, Jupyter Notebooks
 - Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
-![](news%20outlets.png)
-![Most common words in real headlines](word%20cloud.png)
+<p align="center">
+  <img width="600" src="news%20outlets.png">
+</p>
+<p align="center">
+  <img width="600" src="word%20cloud.png">
+</p>
 Softwares used: R
 - Developed a classification model that categorizes news headlines as fake or real
 - The data used was 44,689 news headlines from 2015 to 2018
