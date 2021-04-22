@@ -35,9 +35,9 @@ Softwares used: R
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-<p align="left">
+<p align="center">
   <img width="400" src="images/word%20cloud%20crop.png">
-</p>  |  <p align="right">
+</p>  |  <p align="center">
   <img width="400" src="images/word%20cloud%20fake%20crop.png">
 </p>
 
