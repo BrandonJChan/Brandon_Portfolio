@@ -8,8 +8,10 @@ Softwares used: Python, Jupyter Notebooks
 - In search of the highest performing model, optimized K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors for minimizing Mean Squared Error
 - Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
 
-## Fake News Detection
+## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 ![](news%20outlets.png)
+Softwares used: R
+-
 
 ## Human Trafficking Victim Resource Web Application
 
