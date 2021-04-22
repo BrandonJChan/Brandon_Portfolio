@@ -27,7 +27,7 @@ Softwares used: R
 
 <p float="left">
   <img src="images/word%20cloud%20crop.png" width="500" />
-  <img src="images/word%20cloud%20fake%20crop.png" width="500" />
+  <img src="images/word%20cloud%20fake%20crop.png" width="525" />
 </p>
 
 ## Human Trafficking Victim Resource Web Application
