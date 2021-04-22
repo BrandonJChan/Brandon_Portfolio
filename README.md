@@ -1,7 +1,7 @@
 # Brandon Chan Projects Portfolio
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
-  <img width="600" src="spotify%20logo.png">
+  <img width="600" src="images/spotify%20logo.png">
 </p>
 
 Softwares used: Python, Jupyter Notebooks
