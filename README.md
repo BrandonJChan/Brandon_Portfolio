@@ -9,7 +9,7 @@ Softwares used: Python, Jupyter Notebooks
 - Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
 
 ## Fake News Detection
-
+![](news%20outlets.png)
 
 ## Human Trafficking Victim Resource Web Application
 
