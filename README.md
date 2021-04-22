@@ -25,17 +25,9 @@ Softwares used: R
 - Evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
 
-<p align="left">
-  <img width="400" src="images/word%20cloud%20crop.png">
-</p>
-
-<p align="right">
-  <img width="400" src="images/word%20cloud%20fake%20crop.png">
-</p>
-
 <p float="left">
-  <img src="images/word%20cloud%20crop.png" width="400" />
-  <img src="images/word%20cloud%20fake%20crop.png" width="400" />
+  <img src="images/word%20cloud%20crop.png" width="500" />
+  <img src="images/word%20cloud%20fake%20crop.png" width="500" />
 </p>
 
 ## Human Trafficking Victim Resource Web Application
