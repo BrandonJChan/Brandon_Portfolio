@@ -33,6 +33,14 @@ Softwares used: R
   <img width="400" src="images/word%20cloud%20fake%20crop.png">
 </p>
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<p align="left">
+  <img width="400" src="images/word%20cloud%20crop.png">
+</p>  |  <p align="right">
+  <img width="400" src="images/word%20cloud%20fake%20crop.png">
+</p>
+
 ## Human Trafficking Victim Resource Web Application
 
 ## Principal Components Analysis and K-means Clustering
