@@ -4,7 +4,7 @@
   <img width="600" src="images/spotify%20logo.png">
 </p>
 
-Softwares used: Python, Jupyter Notebooks
+Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - Developed a Spotify song reccomendation model using my personal Spotify listening history and integrating it with Spotify's audio features API
 - The data used was every single song I listening to in a four-month period, the number of times I played each song, and each song's audio features (danceability, energy, loudness, etc.)
   - Predicted the number of plays for each song 
@@ -17,7 +17,7 @@ Softwares used: Python, Jupyter Notebooks
   <img width="600" src="images/news%20outlets%20crop.jpg">
 </p>
 
-Softwares used: R
+Softwares used: R (caret, tidyverse)
 
 - Developed a classification model that categorizes news headlines as fake or real
 - The data used was 44,689 news headlines from 2015 to 2018
@@ -33,10 +33,10 @@ Softwares used: R
 
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
 <img src="images/app_demo.gif"/>
-
-- thesis
-- purpose
-- feature
-- feature
+Softwares used: R (Shiny, tidyverse)
+- Developed a R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
+- Services are displayed on a map of the local San Luis Obispo area
+- Available services can be filtered by location, type of service, and victim profile specialization
+- Contact and descriptive information are shown in a table below the map and upon clicking on a service
 
 ## Principal Components Analysis and K-means Clustering
