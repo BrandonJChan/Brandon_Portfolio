@@ -33,5 +33,9 @@ Softwares used: R
 
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
 <img src="images/app_demo.gif"/>
+- thesis
+- purpose
+- feature
+- feature
 
 ## Principal Components Analysis and K-means Clustering
