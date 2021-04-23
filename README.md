@@ -34,6 +34,7 @@ Softwares used: R (caret, tidyverse)
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
 <img src="images/app_demo.gif"/>
 Softwares used: R (Shiny, tidyverse)
+
 - Developed a R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
 - Services are displayed on a map of the local San Luis Obispo area
 - Available services can be filtered by location, type of service, and victim profile specialization
