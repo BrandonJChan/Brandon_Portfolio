@@ -30,6 +30,7 @@ Softwares used: R
   <img src="images/word%20cloud%20fake%20crop.png" width="458"/>
 </p>
 
+![alt-text-1](images/word%20cloud%20crop.png "title-1") ![alt-text-2](images/word%20cloud%20fake%20crop.png "title-2")
 
 <div align="center">
   Most frequent words in real (left) and fake (right) headlines
