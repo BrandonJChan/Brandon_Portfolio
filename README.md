@@ -31,6 +31,7 @@ Softwares used: R
   Most frequent words in real (left) and fake (right) headlines
 </div>
 
-## Human Trafficking Victim Resource Web Application
+## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
+<img src="images/app_demo.gif"/>
 
 ## Principal Components Analysis and K-means Clustering
