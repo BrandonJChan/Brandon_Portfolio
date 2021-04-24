@@ -14,7 +14,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - Based on my enjoyment of the reccomended songs, I would say that I succeeded!
 
 <p align="center">
-  <img width="1000" src="images/spotify_pred.png">
+  <img width="900" src="images/spotify_pred.png">
 </p>
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
