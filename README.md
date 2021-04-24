@@ -23,6 +23,14 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   Songs with highest predicted plays
 </div>
 
+## [Clustering With Principal Components Analysis and K-means](https://github.com/BrandonJChan/clustering_pca_kmeans)
+
+Softwares used: R (tidyverse)
+- Performed clustering analysis on the Principal Componenets from NBA player tracking statistics and my personal Spotify listening history
+- Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
+- Taught data science concepts and presented cluster analysis to all coworkers at my internship
+
+
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
   <img width="600" src="images/news%20outlets%20crop.jpg">
@@ -51,4 +59,4 @@ Softwares used: R (Shiny, tidyverse)
 - Available services can be filtered by location, type of service, and victim profile specialization
 - Contact and descriptive information are shown in a table below the map and upon clicking on a service
 
-## Principal Components Analysis and K-means Clustering
+
