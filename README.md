@@ -71,7 +71,6 @@ Softwares used: R (caret, tidyverse)
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
 <br/>
 <img src="images/app_demo.gif"/>
-<br/>
 Softwares used: R (Shiny, tidyverse)
 
 - Developed an R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
