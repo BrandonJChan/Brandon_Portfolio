@@ -17,7 +17,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   <img width="900" src="images/spotify_pred.png">
 </p>
 
-<img src="images/the%20difference.png" width="190"/> <img src="images/denzel.png" width="190"/> <img src="images/sugar.png" width="190"/> <img src="images/something%20comforting.png" width="190"/> <img src="images/ventura.png" width="190"/> 
+<img src="images/the%20difference.png" width="195"/> <img src="images/denzel.png" width="195"/> <img src="images/sugar.png" width="195"/> <img src="images/something%20comforting.png" width="195"/> <img src="images/ventura.png" width="195"/> 
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
