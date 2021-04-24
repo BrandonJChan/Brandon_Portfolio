@@ -30,8 +30,9 @@ Softwares used: R (tidyverse)
 - Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
 - Taught data science concepts and presented cluster analysis to all coworkers at my internship
 
-#### NBA Player Statistics PCA Biplot With Clusters
-
+<div align="center">
+  ### NBA Player Statistics PCA Biplot With Clusters
+</div>
 <p align="center">
   <img width="900" src="images/NBA%20Clustering.png">
 </p>
