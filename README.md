@@ -19,6 +19,10 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
 <img src="images/the%20difference.png" width="195"/> <img src="images/denzel.png" width="195"/> <img src="images/sugar.png" width="195"/> <img src="images/something%20comforting.png" width="195"/> <img src="images/ventura.png" width="195"/> 
 
+<div align="center">
+  Songs with highest predicted plays
+</div>
+
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
   <img width="600" src="images/news%20outlets%20crop.jpg">
