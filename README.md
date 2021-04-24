@@ -17,7 +17,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   <img width="900" src="images/spotify_pred.png">
 </p>
 
-<img src="images/the%20difference.png" width="193"/> <img src="images/denzel.png" width="193"/> <img src="images/sugar.png" width="193"/> <img src="images/something%20comforting.png" width="193"/> <img src="images/ventura.png" width="193"/> 
+<img src="images/the%20difference.png" width="180"/> <img src="images/denzel.png" width="180"/> <img src="images/sugar.png" width="180"/> <img src="images/something%20comforting.png" width="180"/> <img src="images/ventura.png" width="180"/> 
 
 <div align="center">
   Songs with highest predicted plays. I LOVE these songs.
@@ -31,7 +31,6 @@ Softwares used: R (tidyverse)
 - Performed clustering analysis on the Principal Componenets from NBA player tracking statistics and my personal Spotify listening history
 - Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
 - Taught data science concepts and presented cluster analysis to all coworkers at my internship
-- 
 <br/>
 
 <div align="center">
