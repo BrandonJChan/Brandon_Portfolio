@@ -13,6 +13,10 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
 - Based on my enjoyment of the reccomended songs, I would say that I succeeded!
 
+<p align="center">
+  <img width="800" src="images/spotify%20pred.png">
+</p>
+
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
   <img width="600" src="images/news%20outlets%20crop.jpg">
