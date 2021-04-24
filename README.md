@@ -20,7 +20,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 <img src="images/the%20difference.png" width="193"/> <img src="images/denzel.png" width="193"/> <img src="images/sugar.png" width="193"/> <img src="images/something%20comforting.png" width="193"/> <img src="images/ventura.png" width="193"/> 
 
 <div align="center">
-  Songs with highest predicted plays (LOVE these songs)
+  Songs with highest predicted plays. I LOVE these songs.
 </div>
 
 <br/><br/><br/>
