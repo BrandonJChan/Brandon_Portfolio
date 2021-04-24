@@ -31,15 +31,8 @@ Softwares used: R (tidyverse)
 - Performed clustering analysis on the Principal Componenets from NBA player tracking statistics and my personal Spotify listening history
 - Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
 - Taught data science concepts and presented cluster analysis to all coworkers at my internship
-
-
-
-
-
-
-
-
-
+- 
+<br/><br/>
 
 <div align="center">
   NBA Player Statistics PCA Biplot With Clusters
