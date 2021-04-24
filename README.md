@@ -23,7 +23,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   Songs with highest predicted plays
 </div>
 
-## [Clustering With Principal Components Analysis and K-means](https://github.com/BrandonJChan/clustering_pca_kmeans)
+## [Clustering With Principal Components Analysis and K-means](https://github.com/BrandonJChan/clustering_pca_kmeans/blob/master/Clustering%20With%20PCA%20and%20K-means%20Presentation%20Slides.pdf)
 
 Softwares used: R (tidyverse)
 - Performed clustering analysis on the Principal Componenets from NBA player tracking statistics and my personal Spotify listening history
