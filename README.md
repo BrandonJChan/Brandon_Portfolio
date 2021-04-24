@@ -30,6 +30,9 @@ Softwares used: R (tidyverse)
 - Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
 - Taught data science concepts and presented cluster analysis to all coworkers at my internship
 
+<p align="center">
+  <img width="600" src="images/NBA%20Clustering.png">
+</p>
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <p align="center">
