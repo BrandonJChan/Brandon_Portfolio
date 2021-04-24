@@ -31,7 +31,7 @@ Softwares used: R (tidyverse)
 - Taught data science concepts and presented cluster analysis to all coworkers at my internship
 
 <p align="center">
-  <img width="600" src="images/NBA%20Clustering.png">
+  <img width="900" src="images/NBA%20Clustering.png">
 </p>
 
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
