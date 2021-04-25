@@ -1,5 +1,7 @@
 # Brandon Chan Projects Portfolio
 
+Hey there! I'm Brandon and these are my all-time favorite projects that I've worked on in the past few years as a data science/analytics intern and as a soon-to-be statistics/data science graduate. I love these projects because they represent my passion for data science combined with my passions outside of data science. Some of the key data science concepts covered in these projects include regression, clustering, classification, feature engineering, hyperparameter optimization, natural language processing, web application development, and much more. I apply these concepts to the passions in my life like my personal music listening data and sports player-tracking statistics. I had a lot of fun working on these projects, so I hope you have fun browsing through them! 
+
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
   <img width="600" src="images/spotify%20logo%20white.png">
@@ -7,7 +9,7 @@
 
 Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - Developed a Spotify song reccomendation model using my personal Spotify listening history and integrating it with Spotify's audio features API
-- The data used was every single song I listening to in a four-month period, the number of times I played each song, and each song's audio features (danceability, energy, loudness, etc.)
+- The data used was every single song I listening to in a four-month period (5094 different songs), the number of times I played each song, and each song's audio features (danceability, energy, loudness, etc.)
   - Predicted the number of plays for each song
 - In search of the highest performing model, optimized K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors for minimizing Mean Squared Error
 - Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
@@ -30,7 +32,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 Softwares used: R (tidyverse)
 - Performed clustering analysis on the Principal Componenets from NBA player tracking statistics and my personal Spotify listening history
 - Clustered NBA players by playstyle and clustered my Spotify artists by sound profile
-- Taught data science concepts and presented cluster analysis to all coworkers at my internship
+- Taught data science concepts and presented cluster analysis to all coworkers at summer internship
 <br/>
 
 <div align="center">
