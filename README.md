@@ -49,6 +49,18 @@ Softwares used: R (tidyverse)
 
 <br/><br/><br/>
 
+## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
+<br/>
+<img src="images/app_demo.gif"/>
+Softwares used: R (Shiny, tidyverse)
+
+- Developed an R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
+- Services are displayed on a map of the local San Luis Obispo area
+- Available services can be filtered by location, type of service, and victim profile specialization
+- Contact and descriptive information are shown in a table below the map and upon clicking on a service
+
+<br/><br/><br/>
+
 ## [Fake News Detection](https://htmlpreview.github.io/?https://github.com/BrandonJChan/Fake_Headline_Detection/blob/main/Fake%20News%20Final%20Report.html)
 <br/>
 <p align="center">
@@ -70,17 +82,3 @@ Softwares used: R (caret, tidyverse)
 <div align="center">
   Most frequent words in real (left) and fake (right) headlines
 </div>
-
-<br/><br/><br/>
-
-## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
-<br/>
-<img src="images/app_demo.gif"/>
-Softwares used: R (Shiny, tidyverse)
-
-- Developed an R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
-- Services are displayed on a map of the local San Luis Obispo area
-- Available services can be filtered by location, type of service, and victim profile specialization
-- Contact and descriptive information are shown in a table below the map and upon clicking on a service
-
-
