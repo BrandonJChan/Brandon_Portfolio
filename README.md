@@ -23,7 +23,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   <img width="900" src="images/spotify_pred.png">
 </p>
 
-<img src="images/the%20difference.png" width="160"/> <img src="images/denzel.png" width="160"/> <img src="images/sugar.png" width="160"/> <img src="images/something%20comforting.png" width="160"/> <img src="images/ventura.png" width="160"/> 
+<img src="images/the%20difference.png" width="155"/> <img src="images/denzel.png" width="155"/> <img src="images/sugar.png" width="155"/> <img src="images/something%20comforting.png" width="155"/> <img src="images/ventura.png" width="155"/> 
 
 <div align="center">
   Songs with highest predicted plays. I LOVE these songs.
@@ -78,7 +78,7 @@ Softwares used: R (caret, tidyverse)
 <br/>
 
 <p align="center">
-  <img width="1000" src="images/word%20cloud%20combined.png">
+  <img width="900" src="images/word%20cloud%20combined.png">
 </p>
 
 <div align="center">
