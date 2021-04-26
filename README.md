@@ -78,7 +78,7 @@ Softwares used: R (caret, tidyverse)
 <br/>
 
 <p align="center">
-  <img width="800" src="images/word%20cloud%20combined.png">
+  <img width="1000" src="images/word%20cloud%20combined.png">
 </p>
 
 <div align="center">
