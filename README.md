@@ -77,7 +77,9 @@ Softwares used: R (caret, tidyverse)
 
 <br/>
 
-<img src="images/word%20cloud%20crop.png" width="482"/> <img src="images/word%20cloud%20fake%20crop.png" width="490"/>
+<p align="center">
+  <img width="800" src="images/word%20cloud%20combined.png">
+</p>
 
 <div align="center">
   Most frequent words in real (left) and fake (right) headlines
