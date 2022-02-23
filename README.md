@@ -4,7 +4,7 @@
   <img width="400" src="images/me.png">
 </p>
 
-Hey there! I'm Brandon and these are my all-time favorite projects that I've worked on in the past few years as a data science/analytics intern and soon-to-be statistics/data science graduate. I love these projects because they represent my passion for data science combined with my passions outside of data science. Some of the key concepts covered in these projects include regression, clustering, classification, feature engineering, hyperparameter optimization, natural language processing, web application development, and much more. I apply these concepts to the passions in my life like my personal music listening data and sports player-tracking statistics. I had a lot of fun working on these projects, so I hope you have fun browsing through them! 
+Hey there! I'm Brandon and these are my all-time favorite projects that I've worked on in during my time as a data science/analytics intern and statistics/data science undergraduate student. I love these projects because they represent my passion for data science combined with my passions outside of data science. Some of the key concepts covered in these projects include regression, clustering, classification, feature engineering, hyperparameter optimization, natural language processing, web application development, and much more. I apply these concepts to the passions in my life like my personal music listening data and sports player-tracking statistics. I had a lot of fun working on these projects, so I hope you have fun browsing through them! 
 
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
