@@ -1,6 +1,6 @@
 # Brandon Chan Projects Portfolio
 
-<p align="right">
+<p align="center">
   <img width="400" src="images/project portfolio headshot.png">
 </p>
 
