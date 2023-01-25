@@ -1,6 +1,6 @@
 <img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=top&mask=circle&maxage=7d" alt="My Image">
 
-### Hi! I'm Brandon :D
+### Hi! I'm Brandon :grin:
 
 I'm a Senior Data Analyst at Razorfish and a computer science master's student at the Univeristy of Illinois Urbana-Champaign.
 
