@@ -17,13 +17,6 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 <details>
   <summary>Read more</summary>
   
-  The list
-
-- item 1
-- item 2
-  
- 
-  
 - **The Data** - 5,094 unique songs I listened to in a four-month period
   
   
