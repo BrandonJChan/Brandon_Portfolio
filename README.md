@@ -6,7 +6,7 @@
 
 ![me](https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true)
 
-###Welcome
+### Welcome
 
 What's up, I'm Brandon and welcome to my page.
 
