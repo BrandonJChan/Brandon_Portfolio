@@ -32,10 +32,10 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
   <img width="900" src="images/spotify_pred.png">
 </p>
 
-<img src="images/the%20difference.png" width="80"/> <img src="images/denzel.png" width="80"/> <img src="images/sugar.png" width="80"/> <img src="images/something%20comforting.png" width="80"/> <img src="images/ventura.png" width="80"/> 
+<img src="images/the%20difference.png" width="85"/> <img src="images/denzel.png" width="85"/> <img src="images/sugar.png" width="85"/> <img src="images/something%20comforting.png" width="85"/> <img src="images/ventura.png" width="85"/> 
 
 <div align="center">
-  Songs with highest predicted plays. I LOVE these songs.
+  Songs with highest predicted plays. Play these songs at my funeral.
 </div>
 
 ---
