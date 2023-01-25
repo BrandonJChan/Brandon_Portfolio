@@ -46,7 +46,9 @@ I performed a cluster analysis on the Principal Componenets calculated from NBA 
 Softwares used: R (tidyverse, ggplot2)
   
  * **The Data** - NBA data tracking every single play that every single player participated in for the entire 2017-2018 NBA season
+ 
  * **The Features** - The frequencies with which every player participated in every type of play
+ 
  * **The Goal** - Use Principal Components Analysis to quantify which types of plays differentiate NBA players the most, then apply K-means clustering to the Principal Components to visualize groupings and redefine basketball positions in the era of positionless basketball.
 
 * The play that seperates NBA players the most is the pick and roll. The first Principal Component puts pick and roll ball handlers and pick and roll screen setters on the opposite ends of the biplot. The first Principal Component is what separates dunk contest champion Zach Lavine from dominant paint defender Tyson Chandler.
@@ -89,8 +91,10 @@ Softwares used: R (caret, tidyverse)
 
 
  * **The Data** - 44,689 news headlines from 2015 to 2018
+ 
  * **The Features** - Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
- * **The Goal** - Optimize an NLP classification algorithm to accurately predict whether or not a news article is real or fake based on just its headline
+ 
+ * **The Goal** - Optimize an NLP classification algorithm to accurately predict whether a news article is real or fake based on just its headline
  
 - I evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
 
