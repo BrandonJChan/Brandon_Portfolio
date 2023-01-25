@@ -1,5 +1,3 @@
-<img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=200&w=200&fit=cover&a=attention&mask=circle&maxage=7d" alt="My Image">
-
 ## Hi! I'm Brandon:grin:
 Welcome!
 
