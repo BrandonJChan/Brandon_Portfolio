@@ -10,17 +10,22 @@ Enjoy!
   <img width="600" src="images/spotify%20logo%20white.png">
 </p>
 
+I developed a personalized Spotify song reccomendation model using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to pull my spotify listening history and audio features for every song.
+
 Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
-I developed a personalized Spotify song reccomendation model using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
-
-- **The Data** - 5,094 unique songs I listened to in a four-month period
-- **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
-- **The Goal** - Predicting the the number of times I would play a new song 
+<details>
+  <summary>Read more</summary>
+  
+  - **The Data** - 5,094 unique songs I listened to in a four-month period
+  - **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
+  - **The Goal** - Predicting the the number of times I would play a new song 
 
 - I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
-- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist   containing recently-released songs
+- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs
 - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
+  
+<details>
 
 <p align="center">
   <img width="900" src="images/spotify_pred.png">
