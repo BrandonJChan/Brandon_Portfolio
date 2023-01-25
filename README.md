@@ -6,9 +6,9 @@
 
 ![me](https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true)
 
-### Welcome
+## What's Up
 
-What's up, I'm Brandon and welcome to my page.
+I'm Brandon and welcome to my page :)
 
 On this page, I've laid out for you my favorite data science and analytics projects. 
 
