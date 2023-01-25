@@ -78,12 +78,19 @@ Softwares used: R (tidyverse, ggplot2)
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
 <br/>
 <img src="images/app_demo.gif"/>
+
+I developed an R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
+
 Softwares used: R (Shiny, tidyverse)
 
-- Developed an R Shiny web application to help local human trafficking victims and law enforcement locate and contact services that provide shelter, counseling, medical assistance, legal assistance, etc.
+<details>
+  <summary>Read more</summary>
+
 - Services are displayed on a map of the local San Luis Obispo area
 - Available services can be filtered by location, type of service, and victim profile specialization
 - Contact and descriptive information are shown in a table below the map and upon clicking on a service
+
+</details>
 
 <br/><br/><br/>
 
@@ -93,13 +100,21 @@ Softwares used: R (Shiny, tidyverse)
   <img width="600" src="images/news%20outlets%20crop.jpg">
 </p>
 
+I optimized a classification model that categorizes news headlines from 2015 to 2018 as fake or real.
 Softwares used: R (caret, tidyverse)
 
-- Developed a classification model that categorizes news headlines as fake or real
-- The data used was 44,689 news headlines from 2015 to 2018
-- Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
-- Evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
+<details>
+  <summary>Read more</summary>
+
+ * **The Data** - 44,689 news headlines from 2015 to 2018
+ * **The Features** - Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
+ * **The Goal** - Optimize an NLP classification algorithm to accurately predict whether or not a news article is real or fake based on just its headline
+ 
+- I evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
+- As shown by the word clouds, headlines mentioning videos (key words "video" and "watch") were the biggest indicator of fake headlines. Headlines stating a quote (key word "says") were the biggest indicator of real headlines.
+
+</details>
 
 <br/>
 
