@@ -17,9 +17,9 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 <details>
   <summary>Read more</summary>
   
-  * **The Data** - 5,094 unique songs I listened to in a four-month period
-  * **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
-  * **The Goal** - Predicting the the number of times I would play a new song 
+* **The Data** - 5,094 unique songs I listened to in a four-month period
+* **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
+* **The Goal** - Predicting the the number of times I would play a new song 
 
 * I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
 * I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs
@@ -42,8 +42,6 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
 ## [Clustering With PCA and K-means](https://github.com/BrandonJChan/clustering_pca_kmeans/blob/master/Clustering%20With%20PCA%20and%20K-means%20Presentation%20Slides.pdf)
 
-
-
 I performed a cluster analysis on the Principal Componenets calculated from NBA player tracking statistics.
 
 Softwares used: R (tidyverse, ggplot2)
@@ -51,9 +49,9 @@ Softwares used: R (tidyverse, ggplot2)
 <details>
   <summary>Read more</summary>
   
-  * **The Data** - NBA data tracking every single play that every single player participated in for the entire 2017-2018 NBA season
-  * **The Features** - The frequencies with which every player participated in every type of play
-  * **The Goal** - Use Principal Components Analysis to quantify which types of plays differentiate NBA players the most, then apply K-means clustering to the Principal Components to visualize groupings and redefine basketball positions in the era of positionless basketball.
+ * **The Data** - NBA data tracking every single play that every single player participated in for the entire 2017-2018 NBA season
+ * **The Features** - The frequencies with which every player participated in every type of play
+ * **The Goal** - Use Principal Components Analysis to quantify which types of plays differentiate NBA players the most, then apply K-means clustering to the Principal Components to visualize groupings and redefine basketball positions in the era of positionless basketball.
 
 * The play that seperates NBA players the most is the pick and roll. The first Principal Component puts pick and roll ball handlers and pick and roll screen setters on the opposite ends of the biplot. The first Principal Component is what separates dunk contest champion Zach Lavine from dominant paint defender Tyson Chandler.
 
