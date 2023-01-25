@@ -1,6 +1,6 @@
 <img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=attention&mask=circle&maxage=7d" alt="My Image">
 
-### Hi! I'm Brandon :grin:
+## Hi! I'm Brandon :grin:
 Welcome to my page.
 
 On this page, I've laid out for you my favorite data science and analytics projects. I had a lot of fun working on these projects and I hope you have fun browsing through them. Through these projects, you'll learn a lot about me as I shamelessly expose my taste in music and unhealthy obsession with basketball. 
