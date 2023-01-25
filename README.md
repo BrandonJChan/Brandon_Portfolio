@@ -1,8 +1,15 @@
 # Brandon Chan Projects Portfolio
 
 <p align="center">
-  <img width="400" src="images/project portfolio headshot.png">
+  <img width="200" src="images/project portfolio headshot.png">
 </p>
+
+###Welcome
+What's up, I'm Brandon and welcome to my page.
+
+On this page, I've laid out for you my favorite data science and analytics projects. 
+
+
 
 Hey there! I'm Brandon and these are my all-time favorite projects that I've worked on in during my time as a data science/analytics intern and statistics/data science undergraduate student. I love these projects because they represent my passion for data science combined with my passions outside of data science. Some of the key concepts covered in these projects include regression, clustering, classification, feature engineering, hyperparameter optimization, natural language processing, web application development, and much more. I apply these concepts to the passions in my life like my personal music listening data and sports player-tracking statistics. I had a lot of fun working on these projects, so I hope you have fun browsing through them! 
 
@@ -12,12 +19,15 @@ Hey there! I'm Brandon and these are my all-time favorite projects that I've wor
 </p>
 
 Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
-- Developed a Spotify song reccomendation model using my personal Spotify listening history and integrating it with Spotify's audio features API
-- The data used was every single song I listening to in a four-month period (5094 different songs), the number of times I played each song, and each song's audio features (danceability, energy, loudness, etc.)
-  - Predicted the number of plays for each song
-- In search of the highest performing model, optimized K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors for minimizing Mean Squared Error
-- Used model to reccomend songs from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
-- Based on my enjoyment of the reccomended songs, I would say that I succeeded!
+I developed a personalized Spotify song reccomendation model using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+
+- **The Data** - 5,094 unique songs I listened to in a four-month period
+- **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
+- **The Goal** - Predicting the the number of times I would play a new song 
+
+- I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
+- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist containing recently-released songs
+- Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
 
 <p align="center">
   <img width="900" src="images/spotify_pred.png">
