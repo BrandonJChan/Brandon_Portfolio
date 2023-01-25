@@ -7,15 +7,13 @@ Enjoy!
 
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
-  <img width="600" src="images/spotify%20logo%20white.png">
+  <img width="400" src="images/spotify%20logo%20white.png">
 </p>
 
 I developed a personalized Spotify song reccomendation model using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) to pull my spotify listening history and audio features for every song.
 
 Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
-<details>
-  <summary>Read more</summary>
   
 - **The Data** - 5,094 unique songs I listened to in a four-month period
   
@@ -29,14 +27,12 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs
   
 - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
-  
-</details>
 
 <p align="center">
   <img width="900" src="images/spotify_pred.png">
 </p>
 
-<img src="images/the%20difference.png" width="160"/> <img src="images/denzel.png" width="160"/> <img src="images/sugar.png" width="160"/> <img src="images/something%20comforting.png" width="160"/> <img src="images/ventura.png" width="160"/> 
+<img src="images/the%20difference.png" width="80"/> <img src="images/denzel.png" width="80"/> <img src="images/sugar.png" width="80"/> <img src="images/something%20comforting.png" width="80"/> <img src="images/ventura.png" width="80"/> 
 
 <div align="center">
   Songs with highest predicted plays. I LOVE these songs.
@@ -50,9 +46,6 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 I performed a cluster analysis on the Principal Componenets calculated from NBA player tracking statistics.
 
 Softwares used: R (tidyverse, ggplot2)
-
-<details>
-  <summary>Read more</summary>
   
  * **The Data** - NBA data tracking every single play that every single player participated in for the entire 2017-2018 NBA season
  * **The Features** - The frequencies with which every player participated in every type of play
@@ -61,8 +54,6 @@ Softwares used: R (tidyverse, ggplot2)
 * The play that seperates NBA players the most is the pick and roll. The first Principal Component puts pick and roll ball handlers and pick and roll screen setters on the opposite ends of the biplot. The first Principal Component is what separates dunk contest champion Zach Lavine from dominant paint defender Tyson Chandler.
 
 <br/>
-
-</details>
 
 <div align="center">
   NBA Player Statistics PCA Biplot With Clusters
@@ -83,14 +74,9 @@ I developed an R Shiny web application to help local human trafficking victims a
 
 Softwares used: R (Shiny, tidyverse)
 
-<details>
-  <summary>Read more</summary>
-
 - Services are displayed on a map of the local San Luis Obispo area
 - Available services can be filtered by location, type of service, and victim profile specialization
 - Contact and descriptive information are shown in a table below the map and upon clicking on a service
-
-</details>
 
 <br/><br/><br/>
 
@@ -103,8 +89,6 @@ Softwares used: R (Shiny, tidyverse)
 I optimized a classification model that categorizes news headlines from 2015 to 2018 as fake or real.
 Softwares used: R (caret, tidyverse)
 
-<details>
-  <summary>Read more</summary>
 
  * **The Data** - 44,689 news headlines from 2015 to 2018
  * **The Features** - Derived training and testing datasets by calculating TF-IDF values for the top 1000 most frequent words among all headlines
@@ -113,8 +97,6 @@ Softwares used: R (caret, tidyverse)
 - I evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
 - As shown by the word clouds, headlines mentioning videos (key words "video" and "watch") were the biggest indicator of fake headlines. Headlines stating a quote (key word "says") were the biggest indicator of real headlines.
-
-</details>
 
 <br/>
 
