@@ -4,6 +4,23 @@ On this page, I've laid out for you my favorite data science and analytics proje
 
 Enjoy!
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
@@ -16,6 +33,8 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
 <details>
   <summary>Read more</summary>
+  
+ 
   
 - **The Data** - 5,094 unique songs I listened to in a four-month period
   
