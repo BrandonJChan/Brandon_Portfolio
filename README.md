@@ -4,7 +4,7 @@
   <img width="200" src="images/project portfolio headshot.png">
 </p>
 
-![me](https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png)
+![me](https://images.weserv.nl/?url=images/project portfolio headshot.png)
 
 ###Welcome
 What's up, I'm Brandon and welcome to my page.
