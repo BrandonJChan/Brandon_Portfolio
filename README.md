@@ -1,20 +1,14 @@
-# Brandon Chan Projects Portfolio
-
-<p align="center">
-  <img width="200" src="images/project portfolio headshot.png">
-</p>
+# Brandon's Page
 
 ![me](https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=top&mask=circle&maxage=7d)
 
-## What's Up
+## First, a lil bit about myself
 
-I'm Brandon and welcome to my page :)
+Hi! I'm Brandon :)
 
-On this page, I've laid out for you my favorite data science and analytics projects. 
+I'm a Senior Data Analyst at Razorfish and a computer science master's student at the Univeristy of Illinois Urbana-Champaign.
 
-
-
-Hey there! I'm Brandon and these are my all-time favorite projects that I've worked on in during my time as a data science/analytics intern and statistics/data science undergraduate student. I love these projects because they represent my passion for data science combined with my passions outside of data science. Some of the key concepts covered in these projects include regression, clustering, classification, feature engineering, hyperparameter optimization, natural language processing, web application development, and much more. I apply these concepts to the passions in my life like my personal music listening data and sports player-tracking statistics. I had a lot of fun working on these projects, so I hope you have fun browsing through them! 
+On this page, I've laid out for you my favorite data science and analytics projects. I had a lot of fun working on these projects and I hope you have fun browsing through them. Through these projects, you'll learn a lot about me as I shamelessly expose my music taste and unhealthy obsession with basketball. Enjoy!
 
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
