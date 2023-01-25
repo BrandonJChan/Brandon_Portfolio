@@ -5,7 +5,7 @@ Welcome to my page.
 
 On this page, I've laid out for you my favorite data science and analytics projects. I had a lot of fun working on these projects and I hope you have fun browsing through them. Through these projects, you'll learn a lot about me as I shamelessly expose my taste in music and unhealthy obsession with basketball. 
 
-If you like what you see, tell me about it! Shoot me a message on [LinkedIn](https://www.linkedin.com/in/brandon-j-chan/).
+If you like what you see, tell me about it! I'm easy to reach on [LinkedIn](https://www.linkedin.com/in/brandon-j-chan/).
 
 <br/><br/><br/>
 
