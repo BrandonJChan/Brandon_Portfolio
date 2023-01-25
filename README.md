@@ -1,4 +1,4 @@
-<img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=focal&fpy=1&mask=circle&maxage=7d" alt="My Image">
+<img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=attention&mask=circle&maxage=7d" alt="My Image">
 
 ### Hi! I'm Brandon :grin:
 Welcome to my page.
