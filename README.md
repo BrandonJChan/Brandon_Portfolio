@@ -16,16 +16,12 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 
   
 - **The Data** - 5,094 unique songs I listened to in a four-month period
-  
-  
 - **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
-  
 - **The Goal** - Predicting the the number of times I would play a new song 
 
-- I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
-  
-- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs
-  
+
+- I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays  
+- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs  
 - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
 
 <p align="center">
