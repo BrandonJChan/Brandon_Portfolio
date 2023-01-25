@@ -25,7 +25,7 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs
 - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
   
-<details>
+</details>
 
 <p align="center">
   <img width="900" src="images/spotify_pred.png">
