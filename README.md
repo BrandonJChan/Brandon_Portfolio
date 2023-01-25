@@ -5,7 +5,7 @@ Welcome to my page.
 
 On this page, I've laid out for you my favorite data science and analytics projects. I had a lot of fun working on these projects and I hope you have fun browsing through them. Through these projects, you'll learn a lot about me as I shamelessly expose my taste in music and unhealthy obsession with basketball. 
 
-If you like what you see, tell me about it! I'm easy to reach.
+If you like what you see, tell me about it!
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <i class="fa fa-envelope-square fa-fw">
 
