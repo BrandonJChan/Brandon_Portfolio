@@ -23,12 +23,12 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 I developed a personalized Spotify song reccomendation model using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 
 - **The Data** - 5,094 unique songs I listened to in a four-month period
-  - **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
-  - **The Goal** - Predicting the the number of times I would play a new song 
+- **The Features** - each song's popularity and Spotify audio feature values (danceability, energy, loudness, etc.)
+- **The Goal** - Predicting the the number of times I would play a new song 
 
 - I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
-  - I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist   containing recently-released songs
-  - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
+- I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist   containing recently-released songs
+- Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
 
 <p align="center">
   <img width="900" src="images/spotify_pred.png">
@@ -40,6 +40,7 @@ I developed a personalized Spotify song reccomendation model using the [Spotify 
   Songs with highest predicted plays. I LOVE these songs.
 </div>
 
+---
 <br/><br/><br/>
 
 ## [Clustering With Principal Components Analysis and K-means](https://github.com/BrandonJChan/clustering_pca_kmeans/blob/master/Clustering%20With%20PCA%20and%20K-means%20Presentation%20Slides.pdf)
@@ -58,6 +59,7 @@ Softwares used: R (tidyverse)
   <img width="900" src="images/NBA%20Clustering.png">
 </p>
 
+---
 <br/><br/><br/>
 
 ## [Human Trafficking Victim Resource Web Application](https://github.com/BrandonJChan/Human_Traffic_Resource_App)
