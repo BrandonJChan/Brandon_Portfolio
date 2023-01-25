@@ -20,8 +20,10 @@ Softwares used: Python (scikit-learn, pandas, numpy), Jupyter Notebooks
 - **The Goal** - Predicting the the number of times I would play a new song 
 
 
-- I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays  
+- I optimized the hyperparameters for K-Nearest Neighbors, Ridge, Random Forest, and various Ensemble Regressors, and assessed all of their performance on predicting plays
+  
 - I evaluated real-world performance of my reccomendation model by calculating predicted plays from my "Release Radar" playlist, a Spotify-generated playlist     containing recently-released songs  
+
 - Based on how much I love these songs (go bless your ears and listen to The Differnce RIGHT NOW), I would say I've succeeded :)
 
 <p align="center">
@@ -91,7 +93,9 @@ Softwares used: R (caret, tidyverse)
  * **The Goal** - Optimize an NLP classification algorithm to accurately predict whether or not a news article is real or fake based on just its headline
  
 - I evaluated the performance of nine different models ranging in complexity from Logistic Regression and Classification Trees all the way to Random Forest and Neural Networks.
+
 - The best performing model was the Support Vector Machine, with a test accuracy of 87.75% and an area under the ROC curve of 95%.
+
 - As shown by the word clouds, headlines mentioning videos (key words "video" and "watch") were the biggest indicator of fake headlines. Headlines stating a quote (key word "says") were the biggest indicator of real headlines.
 
 <br/>
