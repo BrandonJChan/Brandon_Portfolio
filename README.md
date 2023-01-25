@@ -7,7 +7,6 @@ On this page, I've laid out for you my favorite data science and analytics proje
 
 If you like what you see, tell me about it!
 <link rel="shortcut icon" type="image/x-icon" href="images/linkedin favicon.ico">
-<i class="fa fa-envelope-square fa-fw">
 
 <br/><br/><br/>
 
