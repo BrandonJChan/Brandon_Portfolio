@@ -1,10 +1,12 @@
 <img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=top&mask=circle&maxage=7d" alt="My Image">
 
-### Hi! I'm Brandon :)
+### Hi! I'm Brandon :D
 
 I'm a Senior Data Analyst at Razorfish and a computer science master's student at the Univeristy of Illinois Urbana-Champaign.
 
 On this page, I've laid out for you my favorite data science and analytics projects. I had a lot of fun working on these projects and I hope you have fun browsing through them. Through these projects, you'll learn a lot about me as I shamelessly expose my music taste and unhealthy obsession with basketball. Enjoy!
+
+<br/><br/><br/>
 
 ## [Spotify Reccomendation Model](https://github.com/BrandonJChan/Spotify_Reccomendation_Model)
 <p align="center">
