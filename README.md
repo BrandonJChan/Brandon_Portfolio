@@ -2,7 +2,9 @@
 
 ![me](https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=top&mask=circle&maxage=7d)
 
-## First, a lil bit about myself
+<img align="left" src="https://images.weserv.nl/?url=https://github.com/BrandonJChan/Projects_Portfolio/blob/main/images/project%20portfolio%20headshot.png?raw=true?v=4&h=300&w=300&fit=cover&a=top&mask=circle&maxage=7d" alt="My Image">
+
+### But first, a lil bit about myself
 
 Hi! I'm Brandon :)
 
